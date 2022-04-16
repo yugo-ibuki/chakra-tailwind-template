@@ -1,0 +1,10 @@
+/node_modules
+/.next
+/build
+.env
+/.eslintcache
+
+# vercel
+.vercel
+
+.DS_Store
